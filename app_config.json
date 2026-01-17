@@ -1,0 +1,17 @@
+{
+    "admin_password": "888",
+    "xf_appid": "sk-e953c330698847978ba7a",
+    "xf_api_key": "sk-e953c3",
+    "xf_api_secret": "asdascvczcs",
+    "deepseek_key": "dawdasdawfa",
+    "contacts": {
+        "儿子": "13800000001",
+        "女儿": "13900000002"
+    },
+    "reminders": [
+        {
+            "time": "08:00",
+            "task": "吃降压药"
+        }
+    ]
+}
