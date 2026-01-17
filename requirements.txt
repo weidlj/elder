@@ -1,0 +1,5 @@
+streamlit
+openai
+edge-tts
+websocket-client
+pydub
